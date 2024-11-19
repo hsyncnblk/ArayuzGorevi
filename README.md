@@ -22,4 +22,4 @@ Bu proje, modern web geliştirme teknolojileri kullanılarak oluşturulmuş bir 
 
 1. Bu projeyi yerel makinenize klonlayın:
    ```bash
-   git clone <repo-link>
+   git clone [<repo-link>](https://github.com/hsyncnblk/ArayuzGorevi.git)
