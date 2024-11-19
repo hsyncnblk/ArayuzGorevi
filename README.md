@@ -23,3 +23,5 @@ Bu proje, modern web geliştirme teknolojileri kullanılarak oluşturulmuş bir 
 1. Bu projeyi yerel makinenize klonlayın:
    ```bash
    git clone https://github.com/hsyncnblk/ArayuzGorevi.git
+
+2.  `index.html` dosyasını tarayıcıda açın.
